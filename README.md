@@ -25,8 +25,12 @@ Connect with Me 🌐
      </p>
 
 🔬 Research Interests:
+
 -> Development of explainable AI and machine learning algorithms
+
 -> Human-AI augmented decision-making in finance, interior, education and biotech
+
 -> Blockchain technology for automated auditing of AI decisions
+
 -> Cryptographic security for AI systems
 
